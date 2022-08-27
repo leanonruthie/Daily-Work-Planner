@@ -28,4 +28,3 @@ THEN the saved events remain even after refreshing the page as a reminder.
 
 ## Link
 https://leanonruthie.github.io/Daily-Work-Planner/
-https://github.com/leanonruthie/Daily-Work-Planner.git
